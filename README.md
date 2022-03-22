@@ -14,13 +14,13 @@ This analysis will entail the creation of two analyses visualizations and a repo
 The dataset is analyzed through a pivot table in an Excel workbook called Kickstarter_Challenge on the worksheet named Theater Outcomes by Launch Date. 
 
 Data visulization Image:
-![Theater Outcomes](/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes](module1challenges/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 The dataset is analyzed using formulas such as COUNTIFS() and SUM() in Excel workbook called Kickstarter_Challenge on the worksheet called Outcomes Based on Goals. 
 
 Data visulization Image:
-![Theater Outcomes](Outcomes_vs_Goals.png)
+![Outcomes Based on Goals](/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 Using COUNTIFS(), I couldn't get the formula to function. Somehow my excels settings were not setup correctly. Fixed it by going to advanced settings > Use System Operators and checked it. 
