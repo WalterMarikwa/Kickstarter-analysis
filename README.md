@@ -20,7 +20,7 @@ Data visulization Image:
 The dataset is analyzed using formulas such as COUNTIFS() and SUM() in Excel workbook called Kickstarter_Challenge on the worksheet called Outcomes Based on Goals. 
 
 Data visulization Image:
-![Outcomes Based on Goals](../module1challenges.zip/Outcomes_vs_Goals.png)
+![Outcomes Based on Goals](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 Using COUNTIFS(), I couldn't get the formula to function. Somehow my excels settings were not setup correctly. Fixed it by going to advanced settings > Use System Operators and checked it. 
