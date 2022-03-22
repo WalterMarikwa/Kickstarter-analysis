@@ -28,14 +28,18 @@ Using COUNTIFS(), I couldn't get the formula to function. Somehow my excels sett
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
   a) According to the analysis, May is the best month for theater outcomes as shown by the result of successful records.
   b) The highest canceled cases was in the month of January with a record of 7 cancels.
 
 - What can you conclude about the Outcomes based on Goals?
+  
   a) There were more successful outcomes recorded than failed outcomes.
 
 - What are some limitations of this dataset?
+  
   a) Different analysis formulas to validate data from different lenses to see data accuracy. 
 
 - What are some other possible tables and/or graphs that we could create?
+  
   a) A visualization can be created to compare the amount of failures to the amount of successful outcomes percentage wise.
