@@ -14,7 +14,7 @@ This analysis will entail the creation of two analyses visualizations and a repo
 The dataset is analyzed through a pivot table in an Excel workbook called Kickstarter_Challenge on the worksheet named Theater Outcomes by Launch Date. 
 
 Data visulization Image:
-![Theater Outcomes](Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes](./Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 The dataset is analyzed using formulas such as COUNTIFS() and SUM() in Excel workbook called Kickstarter_Challenge on the worksheet called Outcomes Based on Goals. 
